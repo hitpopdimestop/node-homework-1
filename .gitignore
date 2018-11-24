@@ -1,0 +1,5 @@
+// Files and folders created by text editors
+.idea
+
+// Certificates
+https/*.pem
